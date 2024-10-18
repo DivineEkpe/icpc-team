@@ -1,3 +1,7 @@
-# icpc-team
-my first project
-divine ekpe
+echo "# DivineEkpe" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:DivineEkpe/DivineEkpe.git
+git push -u origin main
